@@ -4,7 +4,7 @@ It is a non-experimental study of the causal relationship between smoking and lu
 We used matching using propensity score. The causal effect was explored through McNemar test.\
 There was no causal effect, but further tests were conducted on whether there was a hidden bias.
 
-Team : SKKU Statistics(SungYeon Ha, Sodam Park)\
+Team : SKKU Statistics(Sodam Park, SungYeon Ha)\
 Using tools : R
 
 
